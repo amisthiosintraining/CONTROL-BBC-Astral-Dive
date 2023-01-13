@@ -1,4 +1,4 @@
-# Basic-B!tch-Colours
+# CONTROL-Basic-B!tch-Colours-Astral-Dive
 We wanted an all black recolour for a couple of outfits and from there it grew to what it is today: the most basic paint bucket recolours we've done. It should be shamed.
 ______
 **INSTRUCTIONS**

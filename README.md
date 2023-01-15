@@ -1,4 +1,4 @@
-# CONTROL | Basic Bitch Colours | Astral Dive
+# CONTROL | BBC | Astral Dive
 Basic paint bucket recolours of the Astral Dive.
 
 <img src="https://imgur.com/ihRk1F6.png">

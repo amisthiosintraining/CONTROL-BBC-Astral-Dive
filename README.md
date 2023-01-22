@@ -31,5 +31,5 @@ Delete the following:
 <br>`data_pc\textures\characters\andro\jesse\hands\jesse_superhero_hands_d.tex`
 <br>`data_pc\textures\characters\andro\jesse\tops\jesse_superhero_top_d.tex`
 
-- Please note that these retextures will conflict with other retextures listed above, so please make sure that you have removed any [retexture]_n.tex, [retexture]_s.tex and/or [retexture]_sa.tex that belong to other retextures.
+- Please note that these retextures will conflict with other retextures listed above, so please make sure that you have removed any `[retexture]_n.tex`, `[retexture]_s.tex` and/or `[retexture]_sa.tex` that belong to other retextures.
 - It's not necessary to exit the game completely to switch between retextures. Quit to main menu, drag and drop new retexture and continue.

@@ -3,7 +3,8 @@ Basic paint bucket recolours of the Astral Dive.
 
 <img src="https://imgur.com/ihRk1F6.png">
 
-______
+------
+
 **INSTRUCTIONS**
 1) You will <a href="https://www.nexusmods.com/control/mods/11">NEED Loose File Loader</a> in order to install these mods.
 2) If you haven't obtained the PS4 exclusive outfits (Urban Response, Astral Dive, Tactical Response) or others please refer to Fallbob's page <a href="https://www.nexusmods.com/control/mods/33">here</a> on how to acquire them.
@@ -13,7 +14,9 @@ ______
 
 `C:\Epic Games\Control`
 <br>`C:\SteamLibrary\steamapps\common\Control`
-______
+
+------
+
 **UNINSTALLATION**
 <br>Go to where you installed the mod either C: or D: or wherever you have your game installed.
 

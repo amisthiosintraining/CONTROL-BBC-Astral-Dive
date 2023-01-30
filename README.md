@@ -23,7 +23,7 @@ Example: `C:\Epic Games\Control\data_pc`,
 
 Delete the following:
 
-**ASTRL DIVE**
+**ASTRAL DIVE**
 <br>`data_pc\textures\characters\andro\jesse\accessories\jesse_superhero_accessories_d.tex`
 <br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_superhero_bottom_d.tex`
 <br>`data_pc\textures\characters\andro\jesse\hands\jesse_superhero_hands_d.tex`
